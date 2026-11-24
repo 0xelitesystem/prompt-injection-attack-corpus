@@ -79,7 +79,7 @@ MIT. The corpus is freely reusable for testing and education.
 
 - [byok-security-checklist](https://github.com/0xelitesystem/byok-security-checklist), security checklist for BYOK products
 - [ai-product-disclaimers](https://github.com/0xelitesystem/ai-product-disclaimers), disclaimer language for AI products
-- [prompt-templates](https://github.com/0xelitesystem/prompt-templates), production prompts (the defensive side)
+- [failure-mode-prompts](https://github.com/0xelitesystem/failure-mode-prompts), production prompts (the defensive side)
 
 ## Further reading
 
