@@ -1,4 +1,4 @@
-# prompt-injection-test-suite
+# prompt-injection-attack-corpus
 
 A categorized corpus of prompt injection attempts. Use to test your LLM product's defenses before attackers do.
 

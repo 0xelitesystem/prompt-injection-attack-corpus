@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-prompt-injection-test-suite runner
+prompt-injection-attack-corpus runner
 
 Usage:
   python runner.py --target <url> --tests tests/direct/ [--api-key KEY]
